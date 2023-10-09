@@ -1,4 +1,4 @@
-# pratique_app
+# UI PAYMENT 
 
 Interface Utilisateur d'une application de Payement.
 j'ai voulu reproduire ceci:
