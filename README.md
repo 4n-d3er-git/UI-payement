@@ -1,5 +1,9 @@
 # pratique_app
 
+Interface Utilisateur d'une application de Payement.
+j'ai voulu reproduire ceci:
+# https://dribbble.com/shots/22486042-Payment-App-UI
+
 A new Flutter project.
 
 ## Getting Started
